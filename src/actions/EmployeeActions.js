@@ -1,6 +1,6 @@
 import {
   EMPLOYEE_UPDATE
-} from 'types';
+} from "./types";
 
 export const employeeUpdate = ({prop, value}) => {
   return {
